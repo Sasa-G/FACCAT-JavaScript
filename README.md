@@ -1,8 +1,8 @@
-# Logica de Programação com JavaScript
+# Lógica de Programação com JavaScript
 
  ![preview](./.github/preview.png)
  
- - Exercicios da Apostila Faccat- EXERCÍCIOS e Respostas de Lógica de Programação - ALGORITMOS -
+ - Exercícios da Apostila Faccat- EXERCÍCIOS e Respostas de Lógica de Programação - ALGORITMOS -
 
  - Projeto construído durante o curso PROPROFISSÃO.
 
